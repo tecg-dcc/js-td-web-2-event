@@ -29,11 +29,11 @@
 
 #### PRÉPAS
 
-- Prépa 1 : https://github.com/hepl-dcc/js-tp-password
-- Prépa 2 : https://github.com/hepl-dcc/js-tp-burger-menu
-- Prépa 3 : https://github.com/hepl-dcc/js-tp-day-night-by-js
-- Prépa 4 : https://github.com/hepl-dcc/js-tp-flex-panel-gallery
-- Prépa 5 : https://github.com/hepl-dcc/js-tp-hold-shift-snd-check-checkboxes
+- Prépa 1 : https://github.com/tecg-dcc/js-tp-password
+- Prépa 2 : https://github.com/tecg-dcc/js-tp-burger-menu
+- Prépa 3 : https://github.com/tecg-dcc/js-tp-day-night-by-js
+- Prépa 4 : https://github.com/tecg-dcc/js-tp-flex-panel
+- Prépa 5 : https://github.com/tecg-dcc/js-tp-hold-shift-snd-check-checkboxes
 
 
 ## Sources et ressources
