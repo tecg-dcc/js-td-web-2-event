@@ -84,12 +84,12 @@ header h2 span {
     padding: 5rem 2rem 2rem;
 }
 
-section.explain {
+.explain {
     font-size: 1.75rem;
     line-height: 1.25;
 }
 
-section.explain::after {
+.explain::after {
     content: "";
     display: block;
     width: 75%;
